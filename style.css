@@ -1,0 +1,57 @@
+*, html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* navbar */
+nav {
+  margin: 0 auto;
+  padding: 20px 15px;
+}
+ul {
+  color: rgb(94, 130, 228);
+  list-style-type: none;
+  margin: 0;
+  padding: 0px;
+  justify-content: space-between;
+}
+li {
+  display: inline-block;
+  /* justify-content: space-between; */
+}
+#search {
+  background-color: #E6E4E4;
+  padding:
+}
+#khanAcademy {
+  color: darkblue;
+}
+
+/* hero | 1st row of content */
+/* img div */
+img {
+  /**/
+}
+#wordsDiv {
+  /**/
+}
+
+/* buttons */
+button {
+  padding: 10px 10px;
+  background-color: #4169E1;
+  border: none;
+  border-radius: 10%;
+}
+button a {
+  list-style-type: none;
+  text-decoration: none;
+  color: white;
+}
+
+/* why khan academy works */
